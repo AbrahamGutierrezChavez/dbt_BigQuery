@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: abguch22
+    tables:
+      - name: catalogo_pais
+      - name: ip_location
+      - name: netflix_catalogo
+      - name: netflix_logs
+      - name: users_csv
